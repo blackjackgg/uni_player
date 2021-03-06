@@ -1,0 +1,5 @@
+.vscode
+unpackage/dist/dev/
+
+# Project exclude paths
+/node_modules/

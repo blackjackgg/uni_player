@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "源管理",
+  "usingComponents": {
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-checkbox": "/node-modules/uview-ui/components/u-checkbox/u-checkbox",
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-switch": "/node-modules/uview-ui/components/u-switch/u-switch",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "播放",
+  "usingComponents": {
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}
